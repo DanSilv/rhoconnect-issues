@@ -9,5 +9,5 @@ We only accept issues that are bug reports or feature requests. Bugs must be iso
 
 1. **Search for existing issues.** We sometimes get duplicate issues, and you'd help us out a lot by first checking if someone else has reported the same issue. Moreover, the issue may have already been resolved with a fix available.
 2. **Create an isolated and reproducible test case.** Be sure the problem exists in RhoConnect's code.
-3. **Include a live example.** A simple application GitHub repository or source adapter code with test cases should be provided. The simpler and faster it is to reproduce the issue, the faster we can fix it.
+3. **Include a live example.** An example in the form of an accessible GitHub repository or source adapter code with test cases should be provided. The simpler and faster it is to reproduce the issue, the faster we can fix it.
 4. **Share as much information as possible.** Include operating system and version, browser and version, version of RhoConnect, customized or vanilla build, etc. where appropriate. Also include steps to reproduce the bug.
